@@ -109,10 +109,10 @@ python MCIS-6333_project_niharika.kompally_P2.py
 
 ## Sample Visualizations:
 ### Distribution of Birth Rate:
-![](images/Figure1.png)
+![](images/Figure_1.png)
 ### Distribution of Literacy Rate:
-![](images/Figure2.png)
+![](images/Figure_2.png)
 ### Scatter Plot: Population vs Area
-![](images/Figure3.png)
+![](images/Figure_3.png)
 ### 16 Scatter Plots for Birthrate, Deathrate, Infant mortality, and GDP
-![](images/Figure4.png)
+![](images/Figure_4.png)
